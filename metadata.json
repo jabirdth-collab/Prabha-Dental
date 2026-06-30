@@ -1,0 +1,6 @@
+{
+  "name": "Prabha Dental Hospital",
+  "description": "Advanced Dental Care & Oral Surgery in Patna, Bihar. Premium world-class dental treatment with modern technology by Dr. Amit Kumar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
